@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA2F33A-AE9C-4423-9BE1-7CA8A5359A30}|\u5B9E\u9A8C3.3.vcxproj|D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\\u5B9E\u9A8C3.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DA2F33A-AE9C-4423-9BE1-7CA8A5359A30}|\u5B9E\u9A8C3.3.vcxproj|solutionrelative:\u5B9E\u9A8C3.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA2F33A-AE9C-4423-9BE1-7CA8A5359A30}|\u5B9E\u9A8C3.3.vcxproj|D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\mytemperature.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DA2F33A-AE9C-4423-9BE1-7CA8A5359A30}|\u5B9E\u9A8C3.3.vcxproj|solutionrelative:mytemperature.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA2F33A-AE9C-4423-9BE1-7CA8A5359A30}|\u5B9E\u9A8C3.3.vcxproj|D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\mytemperature.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DA2F33A-AE9C-4423-9BE1-7CA8A5359A30}|\u5B9E\u9A8C3.3.vcxproj|solutionrelative:mytemperature.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mytemperature.h",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\mytemperature.h",
+              "RelativeDocumentMoniker": "mytemperature.h",
+              "ToolTip": "D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\mytemperature.h",
+              "RelativeToolTip": "mytemperature.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T11:39:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mytemperature.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\mytemperature.cpp",
+              "RelativeDocumentMoniker": "mytemperature.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\mytemperature.cpp",
+              "RelativeToolTip": "mytemperature.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T11:38:15.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5B9E\u9A8C3.3.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\\u5B9E\u9A8C3.3.cpp",
+              "RelativeDocumentMoniker": "\u5B9E\u9A8C3.3.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\\u5B9E\u9A8C3.3\\\u5B9E\u9A8C3.3.cpp",
+              "RelativeToolTip": "\u5B9E\u9A8C3.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T11:33:12.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
